@@ -1,0 +1,13 @@
+# Môi trường ảo của Python
+.venv/
+
+# Cài đặt riêng của VS Code
+.vscode/
+
+# Dữ liệu và các file tạm thời
+data/
+__pycache__/
+*.pyc
+
+# Khu vực thí nghiệm cá nhân
+experiments/
